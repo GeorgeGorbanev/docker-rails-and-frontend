@@ -8,7 +8,7 @@ You need to build CI for Ruby On Rails application with modern frontend feature-
 
 #### Backend
 
-Standart Rails 4.x - 5.x dependencies:
+Standard Rails 4.x - 5.x dependencies:
 
 - MRI Ruby 2.2.3
 - Bundler 1.10.6
